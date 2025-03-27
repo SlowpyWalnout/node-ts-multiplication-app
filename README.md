@@ -6,10 +6,9 @@ Instrucciones para correr y ejecutar el programa
 
 ````
 npm install
-``
+````
+2. Correr
 
-.2. Correr
-
-``` 
+````
 npm run dev
-```
+```` 
